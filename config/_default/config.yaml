@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xiaoqun Tao# Website name
+title: Xiaoqun Tao
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '' Thank you for your time '© {2021} Xiaoqun Tao'
 
 ############################
 ## LANGUAGE
