@@ -5,7 +5,7 @@
 
 title: Xiaoqun Tao
 baseurl: 'https://example.com/' # Website URL
-copyright: '' Thank you for your time '© {2021} Xiaoqun Tao'
+copyright: 'Xiaoqun Tao'{2021}
 
 ############################
 ## LANGUAGE
